@@ -1,6 +1,16 @@
 h1{
-    color: cadetblue
+    color: #00334e;
+    font-family: 'Roboto Slab', serif;
 }
 body{
-    background-color: azure
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-family: 'Roboto', sans-serif;
+    background: rgb(236,236,236);
+    background: linear-gradient(3deg, rgba(236,236,236,1) 0%, rgba(246,245,245,1) 100%);
+}
+h2{
+    color: #145374;
+    font-family: 'Roboto Slab', serif;
 }

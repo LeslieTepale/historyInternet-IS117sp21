@@ -1,10 +1,10 @@
 h1{
     color: #00334e;
     font-family: 'Roboto Slab', serif;
-    font-size: xxx-large;
+    font-size: 50px;
 }
 body{
-    padding-top: 75px;
+    padding-top: 60px;
     padding-left: 100px;
     padding-right: 100px;
     font-family: 'Roboto', sans-serif;
@@ -14,11 +14,31 @@ body{
 h2{
     color: #145374;
     font-family: 'Roboto Slab', serif;
+    font-size: 35px;
+}
+h3{
+    color: #ee6f57;
+    font-family: 'Roboto Slab', serif;
+    font-size: 30px;
+}
+div.inline-text{
+    padding-top: 25px;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-size: 20px;
+}
+table{
+    font-size: 20px
 }
 html, body {
     margin: 0;
     height: 100%;
 }
-nav{
-    background-color: #ee6f57;
+.cropped {
+    width: 100%; /* width of container */
+    height: 500px; /* height of container */
+    overflow: hidden;
+}
+p{
+    font-size: 20px;
 }

@@ -1,16 +1,24 @@
 h1{
     color: #00334e;
     font-family: 'Roboto Slab', serif;
+    font-size: xxx-large;
 }
 body{
-    padding-top: 50px;
+    padding-top: 75px;
     padding-left: 100px;
     padding-right: 100px;
     font-family: 'Roboto', sans-serif;
     background: rgb(236,236,236);
-    background: linear-gradient(3deg, rgba(236,236,236,1) 0%, rgba(246,245,245,1) 100%);
+    background: linear-gradient(3deg, rgba(212,212,212,1) 0%, rgba(246,245,245,1) 100%);
 }
 h2{
     color: #145374;
     font-family: 'Roboto Slab', serif;
+}
+html, body {
+    margin: 0;
+    height: 100%;
+}
+nav{
+    background-color: #ee6f57;
 }

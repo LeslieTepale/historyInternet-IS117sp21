@@ -8,8 +8,7 @@ body{
     padding-left: 100px;
     padding-right: 100px;
     font-family: 'Roboto', sans-serif;
-    background: rgb(236,236,236);
-    background: linear-gradient(3deg, rgba(212,212,212,1) 0%, rgba(246,245,245,1) 100%);
+    background: #e5e5e5;
 }
 h2{
     color: #145374;
